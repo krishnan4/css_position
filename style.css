@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+.java{
+    border: solid antiquewhite 3px;
+    width: 700px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+    background-color: antiquewhite;
+    margin: 5px;
+    z-index: 1;
+
+}
+p{
+    position: absolute;
+    left: 330px;
+     
+
+}
+.notes{
+    position: relative;
+    background-color: black;
+    border: solid white 10px;
+    top: 50px;
+    left: 50px;
+    height: 250px;
+    width: 300px;
+    margin: 5px;
+    z-index: 2;
+
+}
+ 
+h1{
+    position: fixed;
+    left:100;
+    top: 80;
+
+}
+ 
+ 
+ 
+ 
